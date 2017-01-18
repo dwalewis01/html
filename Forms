@@ -1,0 +1,58 @@
+<html>
+
+    <head> 
+        
+        <title>  my Webpage </title>
+        
+    </head>
+    
+    <body>
+    
+    
+        
+        
+        <form> 
+            
+            <p> Username: <input type="text" placeholder="Your Username"> </p>
+            
+            <p> Stay logged in <input type="checkbox"   checked> </p>
+            
+            <p> Under 18: <input type="radio" name= "age"> </p>
+
+            <p> Over 18: <input type="radio" name="age"></p>
+        
+            <p> Favorite food:
+                
+                <select> 
+                
+                    
+                    <option> Pizza</option>
+                    
+                    <option selected> Ice Cream</option>
+                    
+                    <option> Sandwich   </option>
+                
+                    
+                
+                
+                
+                
+                
+                
+                </select>
+            
+            
+            
+            
+            
+            
+            
+            </p>
+            
+            <p> <input type="submit" value="Click Me"> </p>
+            
+        </form>
+    
+    </body>
+    
+</html>

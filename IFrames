@@ -1,0 +1,35 @@
+<html>
+
+    <head>
+    
+        <title>  My Webpage </title>
+    
+    
+    
+    
+    
+    
+    </head>
+
+
+    <body>
+    
+    <!-- how to add a website into a website -->
+    <iframe src="http://www.ecowebhosting.co.uk"></iframe>
+    
+            
+                <!-- how to embed a youtube video from shared link -->
+        
+
+            <iframe src="https://www.youtube.com/embed/LT3bzXXKtrs" frameborder="0" allowfullscreen ></iframe>
+
+    </body>
+
+
+
+
+
+
+
+
+</html>

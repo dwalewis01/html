@@ -1,0 +1,57 @@
+<html>
+
+    <head>
+    
+        <title>  My Webpage </title>
+    
+    
+    
+    
+    
+    
+    </head>
+
+
+    <body>
+        
+        <!-- how to setup links to another website -->
+        
+
+        <p id="top"> <a href="http://vignette1.wikia.nocookie.net/simpsons/images/7/7f/Mmm.jpg/revision/latest?cb=20121205194537"> click here to go to google.com </a> </p>
+        
+    
+        <p>   <a href ="http://vignette1.wikia.nocookie.net/simpsons/images/7/7f/Mmm.jpg/revision/latest?cb=20121205194537"> <img src= "homer.png"></a> </p>
+        
+        
+            
+        <p id="thirdhomer" > <a href ="http://www.wikipedia.org"> <img src= "homer.png">  </a></p>
+               
+        
+        <p> <a href ="http://www.wikipedia.org"> <img src= "homer.png">  </a></p>
+        
+                <p> <a href ="http://www.wikipedia.org"> <img src= "homer.png">  </a></p>
+
+                <p> <a href ="http://www.wikipedia.org"> <img src= "homer.png">  </a></p>
+
+                <p > <a href ="http://www.wikipedia.org"> <img src= "homer.png">  </a></p>
+
+                <p> <a href ="http://www.wikipedia.org"> <img src= "homer.png">  </a></p>
+              
+        
+        <!-- how to link within a page to move up and down a page -->
+        
+        
+            <p> <a href="#top">  Back to Top </a></p>
+            <p> <a href="#thirdhomer"> Third homer </a></p>
+
+    
+    </body>
+
+
+
+
+
+
+
+
+</html>

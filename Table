@@ -1,0 +1,86 @@
+<html>
+
+    <head>
+    
+        <title>  My Webpayg </title>
+    
+    
+    
+    
+    
+    
+    </head>
+
+
+    <body>
+    
+        
+    
+        <table> 
+            <thead>
+                
+                <tr>
+                    <th> Name </th>
+                    
+                    <th> Favorite Color </th>
+                
+                
+                
+                
+                </tr>
+            
+            
+            
+            
+            
+            </thead>
+    
+                    <tbody>
+
+
+
+                        <tr> 
+                            <td> Rob</td>
+
+                            <td> Green</td>
+
+                        </tr>
+
+                        <tr>
+                            <td> Kirk</td>
+
+                            <td> blue</td>
+
+
+
+                        </tr>
+
+
+
+
+                        <tr>
+                            <td> brian</td>
+
+                            <td> red </td>
+
+
+
+                        </tr>
+
+                    </tbody>
+        </table>
+    
+    
+    
+    
+    
+    </body>
+
+
+
+
+
+
+
+
+</html>
